@@ -1,0 +1,17 @@
+export const TASKS = [
+    { id: "a", name: "Wake up", time: "4:00 AM", color: "#F2A600" },
+    { id: "b", name: "Drink water", time: "4:05 AM", color: "#2DD68A" },
+    { id: "c", name: "Meditation — 15 min", time: "4:10 AM", color: "#9B8CF5" },
+    { id: "d", name: "Yoga / Exercise — 1 hr", time: "4:30 AM", color: "#E87C5A" },
+    { id: "e", name: "Book reading — 25 pages", time: "6:00 AM", color: "#5B9CF6" },
+    { id: "f", name: "Household chores — 30 min", time: "7:00 AM", color: "#6BBF6A" },
+    { id: "g", name: "Bath", time: "7:30 AM", color: "#2DD68A" },
+    { id: "h", name: "Breakfast", time: "7:45 AM", color: "#F2A600" },
+    { id: "i", name: "Leave home", time: "8:45 AM", color: "#E87C5A" },
+    { id: "j", name: "Arrive home", time: "7:00 PM", color: "#E87C5A" },
+    { id: "k", name: "Dinner", time: "7:00 PM", color: "#F2A600" },
+    { id: "l", name: "Tomorrow prep", time: "7:30 PM", color: "#9B8CF5" },
+    { id: "m", name: "Read 10 pages", time: "8:00 PM", color: "#5B9CF6" },
+    { id: "n", name: "Shayari / Poem", time: "8:30 PM", color: "#D96B9A" },
+    { id: "o", name: "Good night", time: "9:00 PM", color: "#2DD68A" },
+];
